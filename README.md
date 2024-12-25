@@ -17,7 +17,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/cooking-with-us.git
+git clone https://github.com/aimshok/Cooking-with-us.git
 cd cooking-with-us
 ```
 
@@ -52,8 +52,8 @@ The client will be available at [http://localhost:3000](http://localhost:3000).
 Ensure the database (e.g., MongoDB) is configured and running. Check the connection settings in `server/config.js`.
 
 ## Tools and Resources Used
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express
+- **Frontend**: HTML, CSS
+- **Backend**: Node.js
 - **Database**: MongoDB
 - **Dev Tools**: Git, Visual Studio Code
 - **Resources**: [MDN Web Docs](https://developer.mozilla.org), [React Documentation](https://reactjs.org/docs/), [MongoDB Documentation](https://www.mongodb.com/docs/)
