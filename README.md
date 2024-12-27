@@ -10,8 +10,8 @@
 
 
 ## Homepage Screenshot
-(Replace with a real screenshot after creating the website)
-![Homepage](screenshot.png)
+![image](https://github.com/user-attachments/assets/81bc201c-f0b5-455e-89ec-2ed03d85f111)
+
 
 ## How to Run the Project
 
