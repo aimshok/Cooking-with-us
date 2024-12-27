@@ -10,7 +10,8 @@
 
 
 ## Homepage Screenshot
-![image](https://github.com/user-attachments/assets/81bc201c-f0b5-455e-89ec-2ed03d85f111)
+![image](https://github.com/user-attachments/assets/16d45ddc-51a8-4b6b-83d5-aa6c0e4aa076)
+
 
 
 ## How to Run the Project
