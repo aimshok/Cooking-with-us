@@ -15,46 +15,20 @@
 
 
 ## How to Run the Project
+Step 1: Install Dependencies
+Make sure you have Go (version 1.18 or higher) installed.
+Install MongoDB locally or use a cloud database.
+Step 2: Configure the Database
+Ensure MongoDB is running.
+Update the connection string in the main.go file if needed.
+Step 3: Run the Application
+Execute the following command: bash go run main.go
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/aimshok/Cooking-with-us.git
-cd cooking-with-us
-```
+Open your browser and navigate to: http://localhost:8080
 
-### 2. Install Dependencies
-For the server:
-```bash
-cd server
-npm install
-```
 
-For the client:
-```bash
-cd client
-npm install
-```
-
-### 3. Start the Server
-Navigate to the server folder and run:
-```bash
-npm start
-```
-The server will be available at [http://localhost:5000](http://localhost:5000).
-
-### 4. Start the Web Page
-Navigate to the client folder and run:
-```bash
-npm start
-```
-The client will be available at [http://localhost:3000](http://localhost:3000).
-
-### 5. Database Setup
-Ensure the database (e.g., MongoDB) is configured and running. Check the connection settings in `server/config.js`.
-
-## Tools and Resources Used
-- **Frontend**: HTML, CSS
-- **Backend**: Node.js
+- **Frontend**: HTML
+- **Backend**: Go
 - **Database**: MongoDB
 - **Dev Tools**: Git, Visual Studio Code
 - **Resources**: [MDN Web Docs](https://developer.mozilla.org), [React Documentation](https://reactjs.org/docs/), [MongoDB Documentation](https://www.mongodb.com/docs/)
