@@ -15,16 +15,16 @@
 
 
 ## How to Run the Project
-Step 1: Install Dependencies
+-**Step 1**: Install Dependencies
 Make sure you have Go (version 1.18 or higher) installed.
 Install MongoDB locally or use a cloud database.
-Step 2: Configure the Database
+-**Step 2**: Configure the Database
 Ensure MongoDB is running.
 Update the connection string in the main.go file if needed.
-Step 3: Run the Application
+-**Step 3**: Run the Application
 Execute the following command: bash go run main.go
 
-Open your browser and navigate to: http://localhost:8080
+-Open your browser and navigate to: http://localhost:8080
 
 
 - **Frontend**: HTML
